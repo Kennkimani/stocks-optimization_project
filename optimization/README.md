@@ -262,10 +262,3 @@ Potential extensions include:
 This project is intended for educational and research purposes. Historical performance does not guarantee future results. Nothing in this repository constitutes financial or investment advice.
 ```
 
-### Before publishing
-
-Save this as `README.md` in your project root.
-
-**Important:** I've deliberately documented the four-window backtest as a short research exercise rather than presenting it as proof of a profitable strategy.
-
-Once you upload your project ZIP, I'll reconcile this README against the actual files and make sure the installation instructions, notebook name, dependencies and outputs are accurate.
