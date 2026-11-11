@@ -1,0 +1,9 @@
+pandas
+requests
+numpy
+matplotlib
+python-dotenv
+ipykernel
+Scipy
+yfinance
+jinja2

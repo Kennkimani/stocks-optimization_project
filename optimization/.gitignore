@@ -1,0 +1,22 @@
+# Environments and secrets
+.venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets
+data/*.csv
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+!outputs/*.png
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
